@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 100px;
+  background-color: black;
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 89px;
+  height: 28.25px;
+  padding: 40px;S
+}
+
+.hamburguesa {
+  width: 54px;
+  height: 31x;
+  padding: 20px;
+}
+
+.white {
+  color: white;
+}
+
+
+
+.blue {
+  background-color: aqua;
+  height: 20%;
+}
+
+.ver-planes {
+  
+  background-color: green;
+  color: white;
+  border-radius: 25px;
+  border: none;
+  font-size: 1rem;
+  width: 20rem;
+  height: 3rem;
+}
+
+
+p {
+  font-family: helvetica;
+}
+
+body {
+  font-family: "Assistant";
+  font-size: 22px;
+}
+
+.footer {
+  height: 100px;
+  background-color: black;
+  width: 100%;
+  display: flex;
+}
+
+
+.nav-list {
+  list-style: none;
+}
